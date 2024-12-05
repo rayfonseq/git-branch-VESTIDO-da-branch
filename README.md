@@ -1,1 +1,2 @@
-# git-branch-VESTIDO-da-branch
+cd caminho/do/seu/projeto
+
